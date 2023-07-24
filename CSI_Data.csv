@@ -1,0 +1,21 @@
+,Name,Age,Height_cm,Weight_kg,Suspicion_Level,Number_of_Witnesses,Motive_Points,Alibi_Duration_hours,Criminal_Record_Points,Weapon_Points,Vehicle_Points
+0,John 'Whiskey Jack' Johnson,46,130,84,3,3.0,6,20,1,5,5
+1,Maggie 'Moonshine' Malone,50,130,66,9,,3,19,0,4,3
+2,Frank 'Bootleg' Baker,43,160,85,8,3.0,3,7,9,4,9
+3,Alice 'Alibi' Anderson,59,190,81,5,,8,16,9,1,8
+4,Tommy 'Two-Face' Thompson,37,158,87,2,3.0,5,19,9,0,0
+5,Betty 'Bootlegger' Brown,28,167,53,5,3.0,3,21,2,7,7
+6,Danny 'Dice' Davies,36,162,30,4,,5,24,0,6,8
+7,Sarah 'Smuggler' Sanders,21,178,99,8,3.0,5,21,6,3,6
+8,Charlie 'Cider' Campbell,38,200,68,5,2.0,1,12,2,8,5
+9,Lucy 'Liquor' Lee,22,182,78,8,2.0,8,16,3,1,0
+10,Max 'Moonshiner' Murphy,29,173,65,6,1.0,8,19,4,0,25
+11,Grace 'Gin' Green,21,157,63,1,,8,14,25,10,0
+12,Eddie 'Evader' Edwards,61,154,65,8,3.0,25,23,5,10,10
+13,Olivia 'Outlaw' O'Connor,24,153,200,10,2.0,10,4,6,7,4
+14,Roger 'Rum-Runner' Ross,55,179,88,9,3.0,4,7,10,6,4
+15,Samantha 'Sly' Sinclair,150,151,88,10,,25,17,10,0,6
+16,Henry 'Hooch' Harrison,38,186,63,8,1.0,5,3,0,10,10
+17,Wendy 'Whiskey Woman' Watson,59,178,200,6,,4,11,3,2,5
+18,Paul 'Prohibition' Parker,44,173,57,10,2.0,6,24,0,9,7
+19,Laura 'Lager' Lawson,58,179,75,0,3.0,6,19,5,1,10
