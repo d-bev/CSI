@@ -1,6 +1,7 @@
 # CSI: "Code-Scene Investigations"
 
-A webinar hosted by CrowdCast, in which I learned about using Jupyter and Google Colab for data analysis (I'd heard a lot of great things about Jupyter so I wanted to learn more about it).
+A webinar hosted by CrowdCast, in which I learned about using Jupyter and Google Colab for data analysis.
+(I'd heard a lot of great things about Jupyter so I wanted to learn more about it).
 
 # The Premise
 
